@@ -1,7 +1,6 @@
 - Hi, I’m Matt
 - I enjoy learnig about all things tech.
-- I’m currently learning Docker and CI/CD pipelines.
-- I’m looking to collaborate on 3D graphics development.
+- I'm currently learning Blender and OpenGL.
 - Some of my random projects include:
 - https://www.indigo-clothing.company/ (an e-commerce website built with Next.js)
 - http://mattgram.com/ (an Instagram clone built using Django)
